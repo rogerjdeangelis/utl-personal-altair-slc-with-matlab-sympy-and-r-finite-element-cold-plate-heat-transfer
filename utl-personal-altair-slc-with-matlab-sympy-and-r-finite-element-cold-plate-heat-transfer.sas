@@ -2,6 +2,8 @@
 
 %stop_submission;
 
+Personal altair slc with matlab sympy and r finite element cold plate heat transfer
+
 Too log to post here, see github
 
 see github
