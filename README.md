@@ -3,14 +3,14 @@ Personal altair slc with matlab sympy and r finite element cold plate heat trans
     %let pgm=utl-personal-altair-slc-with-matlab-sympy-and-r-finite-element-cold-plate-heat-transfer;
 
     %stop_submission;
-
+    
+    Personal altair slc with matlab sympy and r finite element cold plate heat transfer
+    
     Too log to post here
 
     see github
     https://tinyurl.com/3f9w97t2
     https://github.com/rogerjdeangelis/utl-personal-altair-slc-with-matlab-sympy-and-r-finite-element-cold-plate-heat-transfer
-
-    Personal altair slc with matlab sympy and r finite element cold plate heat transfer
 
      CONTENTS (very simplistic examples - out of my comfort zone on mach of this)
 
