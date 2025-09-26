@@ -2,7 +2,11 @@
 
 %stop_submission;
 
-Too log to post here
+Too log to post here, see github
+
+see github
+https://tinyurl.com/3f9w97t2
+https://github.com/rogerjdeangelis/utl-personal-altair-slc-with-matlab-sympy-and-r-finite-element-cold-plate-heat-transfer
 
 Personal altair slc with matlab sympy and r finite element cold plate heat transfer
 
