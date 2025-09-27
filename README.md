@@ -624,6 +624,16 @@ Personal altair slc with matlab sympy and r finite element cold plate heat trans
     |____/  |_|  \___| .__/ \___/   \___\__,_|\__\___|\__, |\___/|_|  |_|\___||___/
                      |_|                              |___/
     */
+    
+    Altair SLC
+    ---------------------------------------------------------------------------------------------------------------------------------------
+    https://github.com/rogerjdeangelis/setup-personal-edition-altair-slc-eclipse-workspace-config-sasautos-sasuser-saswork-autoexec
+    https://github.com/rogerjdeangelis/utl-altair-slc-to-fill-gaps-in-proc-sql-select-third-place-in-the-daily-double-r-python-solutions
+    https://github.com/rogerjdeangelis/utl-calling-python-from-personal-altair-slc-and-integrating-python-with-sql
+    https://github.com/rogerjdeangelis/utl-calling-r-from-personal-altair-slc-and-integrating-r-with-sql
+    https://github.com/rogerjdeangelis/utl-dropping-down-to-powershell-from-personal-altair-slc
+    https://github.com/rogerjdeangelis/utl-how-to-create-a-sas-dataset-from-python-panda-dataframe-using-the-personal-altair-slc
+    https://github.com/rogerjdeangelis/utl-how-to-create-a-sas-dataset-from-r-dataframe-using-the-personal-altair-slc
 
     SYMPY
     -----------------------------------------------------------------------------------------------------------------------------------------
